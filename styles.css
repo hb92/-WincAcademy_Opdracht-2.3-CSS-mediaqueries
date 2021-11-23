@@ -68,3 +68,11 @@ ul.lijst {
     }
     
 }
+
+@media (min-width: 1024px) {
+    body {
+        background-color: antiquewhite;
+        color: royalblue;
+        font: normal 10px Georgia, serif;
+        line-height: 50px;
+    }
